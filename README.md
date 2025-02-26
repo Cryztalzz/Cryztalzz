@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" /> Hey, Alz here</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" /> Hey, Alz here!</h1>
 <img align="right" height="150" width="160" src="https://i.imgflip.com/9lle2k.gif" />
 
 - 🎓 Currently studying at university.  
